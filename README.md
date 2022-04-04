@@ -3,13 +3,11 @@ Tracking and managing project proposals for the ABCD-ReproNim course's 2022 Proj
 
 ## Contributing
 
-The ABCD-ReproNim course's Project Month is limited to students with a valid data use certification (DUC) for the ABCD dataset.
+All individuals who have a valid data use certification (DUC) for the ABCD dataset are invited to participate in the ABCD-ReproNim course's Project Month (April 4-29, 2022). If you are interested you can [register here](https://docs.google.com/forms/d/e/1FAIpQLSf9V3k-TF6EaQKdJ1eXC8BtOIRbJ2JPvcyrw-NFjPxYk6wAGA/viewform?usp=sf_link).
 
-However, you can propose a project long before the Project Month, and even before you have a DUC, as long as you are an ABCD-ReproNim student who has completed at least 70% of the Main 12-week Course or at least 80% of the AI/ML Course.
-
-To propose a project, open an issue with the "Propose project" template or [click here](https://github.com/ABCD-ReproNim/2022_Project_Month/issues/new/choose).
+To propose a project, you can open an issue with the "Propose project" template or [click here](https://github.com/ABCD-ReproNim/2022_Project_Month/issues/new/choose).
 There will be instructions for filling out the template.
-Don't worry about having a fully fleshed-out analysis plan or anything- the project proposal issues are for _initial_ plans.
+Don't worry about having a fully fleshed-out analysis plan - the project proposal issues are for _initial_ plans.
 
 If you find yourself overwhelmed by the template, please look at [our example proposal](https://github.com/ABCD-ReproNim/2022_Project_Month/issues/2).
 
